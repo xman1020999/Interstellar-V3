@@ -12,6 +12,7 @@ Github: https://github.com/bubbobtw<br>
  
 # Deploying Interstellar
 Interstellar is completely open-source so you can deploy it to github by forking it or deploy it to one of these apps!
+
 <a href="https://heroku.com/deploy?template=https://github.com/bubbobtw/interstellar"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
 <a href="https://repl.it/github/bubbobtw/interstellar"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/bubbobtw/interstellar"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
