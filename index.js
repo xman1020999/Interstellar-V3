@@ -1,11 +1,9 @@
 let inFrame
-
 try {
     inFrame = window !== top
 } catch (e) {
     inFrame = true
 }
-
 if (!inFrame && !navigator.userAgent.includes("Firefox")) {
     const popup = open("about:blank", "_blank")
     if (!popup || popup.closed) {
@@ -16,6 +14,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         const style = iframe.style
         const link = doc.createElement("link")
 
+        doc.title = "Classroom"
         doc.title = "Interstellar"
         link.rel = "icon";
         link.href = "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png";
@@ -24,12 +23,10 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         style.top = style.bottom = style.left = style.right = 0
         style.border = style.outline = "none"
         style.width = style.height = "100%"
-
         doc.body.appendChild(iframe)
         location.replace("https://google.com")
     }
 }
-
 function clockTime(){
     var date = new Date();
     var h = date.getHours(); // 0 - 23
@@ -57,10 +54,7 @@ function clockTime(){
     setTimeout(clockTime, 1000);
     
 };
-
-
 clockTime();
-
 document.addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
       const exploit = document.getElementById('exploit').value;
@@ -76,7 +70,6 @@ document.addEventListener('keypress', function (e) {
       style1.border = style1.outline = 'none';
       style1.top = style1.bottom = style1.left = style1.right = 0;
       style1.width = style1.height = '100%';
-
       link1.rel = 'icon';
       link1.href = 'https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png';
       
