@@ -46,9 +46,9 @@ body {
 	display: block;
 	color: #EB46B4;
 	font: 18px;
-	border: 1px solid #151515;
+	border: 1px solid #1D1D1D;
 	margin: -1px 0 0 0;
-	background-color: #151515;
+	background-color: #1D1D1D;
 	padding: 12px;
 	font-weight: bold;
 	user-select: none;
@@ -58,9 +58,9 @@ body {
 	display: block;
 	text-decoration: inherit;
 	color: #EB46B4;
-	border: 1px solid #151515;
+	border: 1px solid #1D1D1D;
 	margin-top: -1px;
-	background-color: #151515;
+	background-color: #1D1D1D;
 	padding: 12px;
 	transition: 0.2s ease;
   font-family: 'Quicksand', sans-serif;
@@ -92,7 +92,7 @@ input {
     border-radius: 12px;
     padding: 6px;
     width: 245px;
-    background-color: #151515;
+    background-color: #1D1D1D;
 }
 
 ::placeholder {
@@ -112,7 +112,7 @@ input {
 .header {
   padding: 5px;
   text-align: center;
-  background: #151515;
+  background: #1D1D1D;
   color: rgb(0, 0, 0);
   font-size: 8px;
   display: flex;
