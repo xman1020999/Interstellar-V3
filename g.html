@@ -17,4 +17,32 @@
   
 <iframe src="particles.html" frameborder="0" class="frame" id="frame"></iframe>
  
+ 
+ <div>
+    <div class="center-screen">
+      <div class="container">
+        <div class="box">
+        <input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g,''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search...." />
+        <div id="glist">
+        <a href="./gfiles/game/2048/">2048</a>
+        <h2>Pokemon</h2>
+        <a href="./gfiles/game/pokemonfire-red/">Pokemon Fire & Red</a>
+        <h2>Gameboy Advance</h2>
+        <a href="./gfiles/rarch/?core=mgba">Upload ROM</a>
+        <h2>Genesis / Master System</h2>
+        <a href="./gfiles/rarch/?core=genesis_plus_gx">Upload ROM</a>
+        <h2>Nintendo 64</h2>
+        <a href="./gfiles/rarch/?core=mupen64plus_next">Upload ROM</a>
+        <h2>NES</h2>
+        <a href="./gfiles/rarch/?core=nestopia">Upload ROM</a>
+        <h2>Super Nintendo</h2>
+        <a href="./gfiles/rarch/?core=snes9x">Upload ROM</a>
+        <h2>Buggy Games</h2>
+        <a href="./gfiles/flash/">Upload SWF</a>
+        </div>
+        </div>
+        </div>
+    </div> 
+ 
+ 
 </html>
