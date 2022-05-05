@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
-  background-color: #00000;
+  background-color: #cfcfcf;
 }
 
 .container {
@@ -44,11 +44,11 @@ body {
 
 #glist h2 {
 	display: block;
-	color: #47C1FF;
+	color: #EB46B4;
 	font: 18px;
-	border: 1px solid #d1e8f1;
+	border: 1px solid #222222;
 	margin: -1px 0 0 0;
-	background-color: #d1e8f1;
+	background-color: #222222;
 	padding: 12px;
 	font-weight: bold;
 	user-select: none;
@@ -57,10 +57,10 @@ body {
 #glist a {
 	display: block;
 	text-decoration: inherit;
-	color: #47C1FF;
-	border: 1px solid #d1e8f1;
+	color: #EB46B4;
+	border: 1px solid #222222;
 	margin-top: -1px;
-	background-color: #d1e8f1;
+	background-color: #222222;
 	padding: 12px;
 	transition: 0.2s ease;
   font-family: 'Quicksand', sans-serif;
@@ -87,16 +87,16 @@ body {
 input {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
-    color: #47C1FF;
+    color: #EB46B4;
     border: none;
     border-radius: 12px;
     padding: 6px;
     width: 245px;
-    background-color: #d1e8f1;
+    background-color: #222222;
 }
 
 ::placeholder {
-    color: #47C1FF;
+    color: #EB46B4;
     font-weight: bold;
 }
 
@@ -112,8 +112,8 @@ input {
 .header {
   padding: 5px;
   text-align: center;
-  background: #d1e8f1;
-  color: #47C1FF;
+  background: #222222;
+  color: rgb(0, 0, 0);
   font-size: 8px;
   display: flex;
   align-items: center;
@@ -128,9 +128,9 @@ input {
 }
 a {
   text-decoration:none;
-  color:#47C1FF;
+  color:#EB46B4;
 }
 .header-link {
-  color:#47C1FF;
+  color:#EB46B4;
   font-size: 18px;
 }
