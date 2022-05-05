@@ -4,6 +4,7 @@ body {
   margin: 0 auto;
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
+  background-color: #cfcfcf;
 }
 
 .container {
@@ -45,9 +46,9 @@ body {
 	display: block;
 	color: #EB46B4;
 	font: 18px;
-	border: 1px solid #222222;
+	border: 1px solid #151515;
 	margin: -1px 0 0 0;
-	background-color: #222222;
+	background-color: #151515;
 	padding: 12px;
 	font-weight: bold;
 	user-select: none;
@@ -57,9 +58,9 @@ body {
 	display: block;
 	text-decoration: inherit;
 	color: #EB46B4;
-	border: 1px solid #222222;
+	border: 1px solid #151515;
 	margin-top: -1px;
-	background-color: #222222;
+	background-color: #151515;
 	padding: 12px;
 	transition: 0.2s ease;
   font-family: 'Quicksand', sans-serif;
@@ -91,7 +92,7 @@ input {
     border-radius: 12px;
     padding: 6px;
     width: 245px;
-    background-color: #222222;
+    background-color: #151515;
 }
 
 ::placeholder {
@@ -111,7 +112,7 @@ input {
 .header {
   padding: 5px;
   text-align: center;
-  background: #222222;
+  background: #151515;
   color: rgb(0, 0, 0);
   font-size: 8px;
   display: flex;
