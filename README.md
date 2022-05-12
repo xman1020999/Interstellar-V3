@@ -9,6 +9,8 @@ Replit: https://replit.com/@akabubbo<br>
 Github: https://github.com/bubbobtw<br>
 <br>
 
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/interstellarofficial)
+
  
 # Deploying Interstellar
 Interstellar is completely open-source so you can deploy it to github by forking it or deploy it to one of these apps!
