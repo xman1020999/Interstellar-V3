@@ -1,9 +1,10 @@
-# Interstellar
+# Supernova
 
-**About**<br>
+# About
 Hey There! My name is bubbo, and I'm one of the creators of Interstellar. Interstellar is an unblocked games website with tons of proxies and bookmarklets, me and Bigfoot9999 are constantly updating the site with tons of new games and features. If you need to contact either of us DM us on discord (Bigfoot#9033 & bub#3099) or email me at dev@stars.gq, or Bigfoot9999 at Bigfoot@officialbigfoot.tk!
 <br><br>
-**My Socials**<br>
+
+# Socials
 Discord: https://discord.gg/ffcdaaA49g<br>
 Replit: https://replit.com/@akabubbo<br>
 Github: https://github.com/bubbobtw<br>
@@ -30,3 +31,5 @@ Interstellar is completely open-source so you can deploy it to github by forking
 
 # Credits
 - **https://github.com/3kh0/3kh0.github.io**
+- **https://github.com/NovaAppsInc/fracital-proxy/**
+- **https://github.com/ozh/cookieclicker**
