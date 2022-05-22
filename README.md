@@ -1,4 +1,4 @@
-# Supernova
+# Interstellar
 
 # About
 Hey There! My name is bubbo, and I'm one of the creators of Interstellar. Interstellar is an unblocked games website with tons of proxies and bookmarklets, me and Bigfoot9999 are constantly updating the site with tons of new games and features. If you need to contact either of us DM us on discord (Bigfoot#9033 & bub#3099) or email me at dev@stars.gq, or Bigfoot9999 at Bigfoot@officialbigfoot.tk!
