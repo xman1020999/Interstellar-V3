@@ -18,9 +18,9 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         const style = iframe.style
         const link = doc.createElement("link")
 
-        doc.title = "Bigfoot's Game Shack"
+        doc.title = "Interstellar Games"
         link.rel = "icon";
-        link.href = "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png";
+        link.href = "https://raw.githubusercontent.com/bubbobtw/interstellar/main/favicon.ico";
         iframe.src = location.href
         style.position = "fixed"
         style.top = style.bottom = style.left = style.right = 0
