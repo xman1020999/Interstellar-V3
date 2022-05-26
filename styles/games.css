@@ -5,6 +5,11 @@ body {
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
   background-color: #cfcfcf;
+  background-image: url('bkgrnd2.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
 }
 
 .container {
