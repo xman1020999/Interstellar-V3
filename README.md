@@ -32,3 +32,4 @@ Interstellar is completely open-source so you can deploy it to github by forking
 # Credits
 - **https://github.com/3kh0/3kh0.github.io**
 - **https://github.com/ozh/cookieclicker**
+- **https://github.com/AlgebraHelper/AlgebraHelper-old**
