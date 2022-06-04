@@ -1,3 +1,4 @@
+
    <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,17 +40,69 @@
     </script>
 
  <!--NAVBAR-->
-    <div class="header" align="center">
-        <a href="/"><h1 class="header-link" style="color: #FFFFFF;">Home</h3></a>
-        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="./resources/pages/gmes.html"><h1 class="header-link">Games</h3></a>
-        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="./resources/pages/prxy.html"><h1 class="header-link">Proxies</h3></a>
-        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="./resources/pages/apps.html"><h1 class="header-link">Apps</h3></a>
-        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="./resources/pages/extras.html"><h1 class="header-link">Extras</h3></a>
-	    
-    </div>
+ <style>
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, Tahoma, Serif;
+  color: #C3B1E1;
+}
+
+nav {
+  display: flex;
+  justify-content:space-between; 
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #000; 
+}
+
+nav ul {
+  display: flex;
+  list-style: none; 
+}
+
+nav li {
+  padding-left: 1rem; 
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff
+}
+
+ /* 
+  Extra small devices (phones, 600px and down) 
+*/
+@media only screen and (max-width: 600px) {
+  nav {
+    flex-direction: column;
+  }
+  nav ul {
+    flex-direction: column;
+    padding-top: 0.5rem;
+  }
+  nav li {
+    padding: 0.5rem 0;
+  }
+}
+</style>
+
+
+<nav>
+  <h2>Interstellar Network</h2>
+  <ul>
+    <li><a href="gmes.html">Games</a></li>
+    <li><a href="/apps.html">Apps</a></li>
+    <li><a href="/prxy.html">Proxies</a></li>
+    <li><a href="/request.html">Request</a></li>
+  </ul>
+</nav>
+    
 	
     </body>
 
 </html>
    
-
