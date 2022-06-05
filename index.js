@@ -12,7 +12,7 @@ try {
 if (!inFrame && !navigator.userAgent.includes("Firefox")) {
     const popup = open("about:blank", "_blank")
     if (!popup || popup.closed) {
-        alert("Popups are disabled!")
+        alert("This will be in your history! Allow popups and redirects to hide this from showing up in your history.")
     } else {
         const doc = popup.document
         const iframe = doc.createElement("iframe")
