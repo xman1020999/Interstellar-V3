@@ -1,5 +1,7 @@
 <div align='center'>
 
+  ![Video](https://spacesprod.libertas.gg/embeds/BMtrveS3psy48gibPheqEEYRik9lMyXy2J8uUyhm.gif)
+
 ### About Us
 
 Interstellar Network is a team of developers, with the primary goal of ending internet censorship by providing our community with free unblocked games.
