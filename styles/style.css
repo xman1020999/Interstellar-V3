@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: Metro;
   src: url(../resources/metropolis-regular.otf);
 }
@@ -639,7 +639,6 @@ div.results.open {
   background: #eee;
   height: 5px;
   width: 100%;
-  /*! margin-bottom: -4px */
 }
 
 a.alertb {
@@ -1121,3 +1120,4 @@ div.gamedropthingy.open {
 .lyric {
   margin-left: 8px;
 }
+*/
