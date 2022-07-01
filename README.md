@@ -49,11 +49,13 @@ Interstellar is completely open-source so you can deploy it to github by forking
 
  **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
 
-### Donate?
+# Changelog
 
-This isn't necessary, just really appreciated.
+V0.0.2 
+- The Summer Update. 
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/interstellarofficial)
+V0.0.1
+- Initial Release
 
 
 
