@@ -50,11 +50,12 @@ Interstellar is completely open-source so you can deploy it to github by forking
  **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
 
 # Changelog
+</div>
 
-V0.0.2 
+v0.0.2 
 - The Summer Update. 
 
-V0.0.1
+v0.0.1
 - Initial Release
 
 
