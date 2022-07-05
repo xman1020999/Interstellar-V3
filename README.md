@@ -1,6 +1,5 @@
 <div align='center'>
 
-  ![Video](https://spacesprod.libertas.gg/embeds/BMtrveS3psy48gibPheqEEYRik9lMyXy2J8uUyhm.gif)
 
 ### About Us
 
