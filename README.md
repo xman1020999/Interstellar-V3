@@ -50,11 +50,13 @@ Interstellar is completely open-source so you can deploy it to github by forking
 
 ## Changelog
 </div>
+
 ### Summer '22 
 
 v0.0.2 
-- Added Tons of Games (Check them out here: https://aee7b808.interstellar-edu.pages.dev/gmes.html)
-- Updated Nav Bar to Black and White (Check it out here: https://aee7b808.interstellar-edu.pages.dev)
+- **<a href="https://aee7b808.interstellar-edu.pages.dev/gmes.html">Added Tons of Games</a>**
+
+- Updated Nav Bar to Black and White
 
 v0.0.1
 - Initial Release
