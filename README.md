@@ -48,11 +48,13 @@ Interstellar is completely open-source so you can deploy it to github by forking
 
  **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
 
-# Changelog
+## Changelog
 </div>
+### Summer '22 
 
 v0.0.2 
-- The Summer Update. 
+- Added Tons of Games (Check them out here: https://aee7b808.interstellar-edu.pages.dev/gmes.html)
+- Updated Nav Bar to Black and White (Check it out here: https://aee7b808.interstellar-edu.pages.dev)
 
 v0.0.1
 - Initial Release
