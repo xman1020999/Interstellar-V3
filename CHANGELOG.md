@@ -21,6 +21,11 @@ v0.0.05
 - Fixed Twitch.tv
 - Fixed YouTube
 
+##### Pages
+
+- Fixed flash.html
+- Fixed index.html
+
 
 v0.0.4
 - Added Subway Surfers: San Francisco
