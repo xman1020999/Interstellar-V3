@@ -10,6 +10,8 @@ v0.0.05
 - Fixed Adult Swim
 - Fixed Coolmath Games
 - Fixed Discord
+    - Added Widgetbot
+    - Fixed Servers
 - Fixed Disney Plus
 - Fixed Flix-HQ
 - Fixed GeForce NOW
