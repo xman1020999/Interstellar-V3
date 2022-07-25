@@ -3,7 +3,26 @@
 
 ### Summer '22 
 
-v0.0.04
+v0.0.05
+
+##### Apps
+
+- Fixed Adult Swim
+- Fixed Coolmath Games
+- Fixed Discord
+- Fixed Disney Plus
+- Fixed Flix-HQ
+- Fixed GeForce NOW
+- Fixed Google
+- Fixed Instagram
+- Fixed Netflix
+- Fixed Reddit
+- Fixed Spotify
+- Fixed Twitch.tv
+- Fixed YouTube
+
+
+v0.0.4
 - Added Subway Surfers: San Francisco
 
 
