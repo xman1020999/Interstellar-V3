@@ -52,6 +52,11 @@ Interstellar is completely open-source so you can deploy it to github by forking
 </div>
 
 ### Summer '22 
+
+v0.0.04
+- Added Subway Surfers: San Francisco
+
+
 v0.0.3
 - **<a href="https://175be50b.interstellar-edu.pages.dev">Removed Proxies</a>**
 
