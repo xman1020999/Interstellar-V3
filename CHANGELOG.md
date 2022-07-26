@@ -26,6 +26,7 @@ v0.0.05
 ##### Pages
 
 - Fixed flash.html
+    - Updated Flash Player
 - Fixed index.html
 
 
