@@ -28,6 +28,9 @@ v0.0.5
 - Fixed flash.html
     - Updated Flash Player
 - Fixed index.html
+- Fixed Widgetbot.html
+    - Added Nav Bar
+    - Updated Nav Bar
 
 
 v0.0.4
