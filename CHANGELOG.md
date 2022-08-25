@@ -3,6 +3,27 @@
 
 ### Summer '22 
 
+v.0.0.8
+
+##### Games
+- Fixed Slope
+- Fixed Play.html
+    - Fixed the Search Bar
+
+v.0.0.7
+
+##### Games
+- Fixed Games.html
+    - Renamed to play.html
+    - Organized Games (A-Z)
+
+v.0.0.6
+
+##### Apps
+- Fixed Geforce NOW
+    - Fixed Servers
+
+
 v0.0.5
 
 ##### Apps
