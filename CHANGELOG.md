@@ -3,6 +3,13 @@
 
 ### Summer '22 
 
+v.0.0.8
+
+##### Games
+- Fixed Slope
+- Fixed Play.html
+    - Fixed the Search Bar
+
 v.0.0.7
 
 ##### Games
