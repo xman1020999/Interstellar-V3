@@ -6,6 +6,8 @@
 v.0.0.8
 
 ##### Games
+- Added Web Retro
+    -  https://binbashbanana.github.io/webretro/
 - Fixed Slope
 - Fixed Play.html
     - Fixed the Search Bar
