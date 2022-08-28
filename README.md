@@ -33,9 +33,12 @@ Bigfoot#9033
 ### Deploying
 Interstellar is completely open-source so you can deploy it by forking or deploying it below.
   
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/imbubbo/interstellar)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imbubbo/interstellar)
-  [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/imbubbo/interstellar)
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/imbubbo/interstellar"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://replit.com/github/imbubbo/interstellar"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://glitch.com/edit/#!/import/github/imbubbo/interstellar"><img alt="Remix on Glitch" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg"></a>
+<a target="_blank" href="https://railway.app/new/template?template=https://github.com/imbubbo/interstellar"><img alt="Deploy on Railway" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/railway.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/imbubbo/interstellar"><img alt="Deploy to Vercel" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/imbubbo/interstellar"><img alt="Deploy to Netlify" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg"></a>
 
 
 ### Contributors 
