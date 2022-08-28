@@ -31,7 +31,7 @@ Bigfoot#9033
  **<a href="mailto:dev@stars.gq">Bubbo</a>**
 
 ### Deploying
-Interstellar is completely open-source so you can deploy it to github by forking it or deploy it to one of these apps!
+Interstellar is completely open-source so you can deploy it by forking or deploying it below.
   
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/imbubbo/interstellar)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imbubbo/interstellar)
