@@ -174,5 +174,24 @@ function openGame() {
                     }
             
 
+                    https://044e0027-06c6-4568-8412-8b5e8c72270d.id.repl.co/apps/discord.html
 
 
+
+function discServer5() {
+                    var win = window.open() 
+                    var url = "https://044e0027-06c6-4568-8412-8b5e8c72270d.id.repl.co/apps/discord.html                    "
+                    var iframe = win.document.createElement('iframe')
+                    iframe.style.width = "100%  ";
+                    iframe.style.height = "100%";
+                    iframe.style.position = "fixed";
+                    iframe.style.top = "0";
+                    iframe.style.bottom = "0";
+                    iframe.style.left = "0";
+                    iframe.style.left = "0";
+                    iframe.style.border = "none";
+                    iframe.style.backgroundcolor = "black"
+                    iframe.src = url
+                    win.document.body.appendChild(iframe)
+                    }
+            
