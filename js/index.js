@@ -140,7 +140,7 @@ function openGame() {
 
             function discServer3() {
                 var win = window.open() 
-                var url = "43f97abf-fcf9-4dc7-911a-cb31f2dcba51.id.repl.co/apps/discord.html"
+                var url = "https://43f97abf-fcf9-4dc7-911a-cb31f2dcba51.id.repl.co/apps/discord.html"
                 var iframe = win.document.createElement('iframe')
                 iframe.style.width = "100%  ";
                 iframe.style.height = "100%";
