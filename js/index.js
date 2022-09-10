@@ -138,5 +138,41 @@ function openGame() {
             win.document.body.appendChild(iframe)
             }
 
+            function discServer3() {
+                var win = window.open() 
+                var url = "43f97abf-fcf9-4dc7-911a-cb31f2dcba51.id.repl.co/apps/discord.html"
+                var iframe = win.document.createElement('iframe')
+                iframe.style.width = "100%  ";
+                iframe.style.height = "100%";
+                iframe.style.position = "fixed";
+                iframe.style.top = "0";
+                iframe.style.bottom = "0";
+                iframe.style.left = "0";
+                iframe.style.left = "0";
+                iframe.style.border = "none";
+                iframe.style.backgroundcolor = "black"
+                iframe.src = url
+                win.document.body.appendChild(iframe)
+                }
+
+
+                function discServer4() {
+                    var win = window.open() 
+                    var url = "https://84e60825-0a74-4156-88f6-1be1e2680f72.id.repl.co/apps/discord.html"
+                    var iframe = win.document.createElement('iframe')
+                    iframe.style.width = "100%  ";
+                    iframe.style.height = "100%";
+                    iframe.style.position = "fixed";
+                    iframe.style.top = "0";
+                    iframe.style.bottom = "0";
+                    iframe.style.left = "0";
+                    iframe.style.left = "0";
+                    iframe.style.border = "none";
+                    iframe.style.backgroundcolor = "black"
+                    iframe.src = url
+                    win.document.body.appendChild(iframe)
+                    }
+            
+
 
 
