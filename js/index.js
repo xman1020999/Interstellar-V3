@@ -199,7 +199,7 @@ function discServer5() {
             
                     function bitersIO() {
                         var win = window.open() 
-                        var url = "https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/666344820848380631/biters-io.html                   "
+                        var url = "https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/666344820848380631/biters-io.html"
                         var iframe = win.document.createElement('iframe')
                         iframe.style.width = "100%  ";
                         iframe.style.height = "100%";
