@@ -194,4 +194,22 @@ function discServer5() {
                     iframe.src = url
                     win.document.body.appendChild(iframe)
                     }
+
+                    
             
+                    function bitersIO() {
+                        var win = window.open() 
+                        var url = "https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/666344820848380631/biters-io.html                   "
+                        var iframe = win.document.createElement('iframe')
+                        iframe.style.width = "100%  ";
+                        iframe.style.height = "100%";
+                        iframe.style.position = "fixed";
+                        iframe.style.top = "0";
+                        iframe.style.bottom = "0";
+                        iframe.style.left = "0";
+                        iframe.style.left = "0";
+                        iframe.style.border = "none";
+                        iframe.style.backgroundcolor = "black"
+                        iframe.src = url
+                        win.document.body.appendChild(iframe)
+                        }
