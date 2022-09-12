@@ -283,3 +283,9 @@ function discServer5() {
                                         win.document.body.appendChild(iframe)
                                         }
 
+                                        function openInNewTab(https://docs.google.com/forms/d/e/1FAIpQLSdHIQv5vq7_qm6BlwZAOk0ehvu3T-YncvC-8WTNJMNh6rGnuw/viewform?usp=send_form ) {
+                                            window.open(https://docs.google.com/forms/d/e/1FAIpQLSdHIQv5vq7_qm6BlwZAOk0ehvu3T-YncvC-8WTNJMNh6rGnuw/viewform?usp=send_form, '_blank').focus();
+                                           }
+                                             
+                                        
+
