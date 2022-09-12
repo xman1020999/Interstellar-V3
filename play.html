@@ -18,7 +18,7 @@
 
 <script src="/js/index.js"></script>
 
-  <!--NAVBAR-->
+   <!--NAVBAR-->
  <style>
 * {
   padding: 0;
@@ -58,6 +58,8 @@ nav a {
 @media only screen and (max-width: 600px) {
   nav {
     flex-direction: column;
+	      text-align: center;
+
   }
   nav ul {
     flex-direction: column;
@@ -78,7 +80,6 @@ nav a {
     <li><a href="/play.html">Games</a></li>
     <li><a href="/apps.html">Apps</a></li>
 <li><a href="/widgetbot.html">Chatroom</a></li>
-    <li><a href="/request.html">Request</a></li>
   </ul>
 </nav>
 
@@ -88,7 +89,8 @@ nav a {
         <div class="box">
         <input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search...." />
         <div id="glist">
-
+<a href="https://forms.gle/2UPQRKSdNaz7okaPA">Any Games Missing? Request Them Here</a>
+          <a onclick="RequestGame">Any Games Missing? Request Them Here</a>
 <h2>Resources</h2>
 <a href="/play/flash/index.html">Upload SWF</a>
 <a href="/play/web/index.html">Proxied Games</a>
@@ -141,11 +143,11 @@ nav a {
         <a href="/play/flash/?swf=bloonstd4.swf">Bloons Tower Defense 4</a>
         <a href="/play/flash/?swf=bloonstd5.swf">Bloons Tower Defense 5</a>
         <a href="/play/flash/?swf=bobtherobber.swf">Bob The Robber</a>
-        <a href="/play/launcher.html#bomberman_max2blue">Bomberman Max 2 - Blue Advance</a>
-        <a href="/play/launcher.html#bomberman_tournament">Bomberman Tournament</a>
+        <a href="/play/emulator/gba/launcher.html#bomberman_max2blue">Bomberman Max 2 - Blue Advance</a>
+        <a href="/play/emulator/gba/launcher.html#bomberman_tournament">Bomberman Tournament</a>
         <a href="/play/flash/?swf=boombot2.swf">Boombot 2</a>
         <a href="/play/flash/?swf=boxhead2play.swf">Boxhead 2Play</a>
-        <a href="/play/launcher.html#bubblebobble">Bubble Bobble: Old and New</a>
+        <a href="/play/emulator/gba/launcher.html#bubblebobble">Bubble Bobble: Old and New</a>
         <a href="/play/flash/?swf=bubbletanks2.swf">Bubble Tanks 2</a>
         <a href="/play/flash/?swf=bulletbill.swf">Bullet Bill</a>
         <a href="/play/flash/?swf=bullettimefighting.swf">Bullet Time Fighting</a>
@@ -167,15 +169,15 @@ nav a {
 		<a href='/play/cookie-clicker/2019/index.html'>Cookie Clicker 2019</a>
 		<a href='/play/cookie-clicker/2021/index.html'>Cookie Clicker 2021</a>
     <a href="/play/flash/?swf=computerbashing.swf">Computer Bashing</a>
-    <a href="/play/launcher.html#cfpt">Connect Four (Perfection/Trouble)</a>
-    <a href="/play/launcher.html#cbha">Crash Bandicoot - The Huge Adventure</a>
-    <a href="/play/launcher.html#cbprr">Crash Bandicoot - Purple Riptos Rampage</a>
-    <a href="/play/launcher.html#cb2">Crash Bandicoot 2 - N-Tranced</a>
-    <a href="/play/launcher.html#cnk">Crash Nitro Kart</a>
-      <a href="/play/launcher.html#croket1">Croket! - Yume no Banker Survival!</a>
-  <a href="/play/launcher.html#croket2">Croket! 2 - Yami no Bank to Banqueen</a>
-  <a href="/play/launcher.html#croket3">Croket! 3 - Granu Oukoku no Nazo</a>
-  <a href="/play/launcher.html#croket4">Croket! 4 - Bank no Mori no Mamorigami</a>
+    <a href="/play/emulator/gba/launcher.html#cfpt">Connect Four (Perfection/Trouble)</a>
+    <a href="/play/emulator/gba/launcher.html#cbha">Crash Bandicoot - The Huge Adventure</a>
+    <a href="/play/emulator/gba/launcher.html#cbprr">Crash Bandicoot - Purple Riptos Rampage</a>
+    <a href="/play/emulator/gba/launcher.html#cb2">Crash Bandicoot 2 - N-Tranced</a>
+    <a href="/play/emulator/gba/launcher.html#cnk">Crash Nitro Kart</a>
+      <a href="/play/emulator/gba/launcher.html#croket1">Croket! - Yume no Banker Survival!</a>
+  <a href="/play/emulator/gba/launcher.html#croket2">Croket! 2 - Yami no Bank to Banqueen</a>
+  <a href="/play/emulator/gba/launcher.html#croket3">Croket! 3 - Granu Oukoku no Nazo</a>
+  <a href="/play/emulator/gba/launcher.html#croket4">Croket! 4 - Bank no Mori no Mamorigami</a>
     <a href="/play/flash/?swf=crushthecastle.swf">Crush The Castle</a>
 <a href="/play/flash/?swf=crushthecastle2.swf">Crush The Castle 2</a>
 		<a href='/play/ctr/index.html'>Cut The Rope</a>
@@ -188,24 +190,24 @@ nav a {
         <h2>D</h2>
 		<a href='/play/defend-the-tank/index.html'>Defend The Tank</a>
     <a href="/play/flash/?swf=diggy.swf">Diggy</a>
-    <a href="/play/launcher.html#digimon_racing">Digimon Racing</a>
+    <a href="/play/emulator/gba/launcher.html#digimon_racing">Digimon Racing</a>
     <a href="/play/flash/?swf=doodledefender.swf">Doodle Defender</a>
     <a href='/play/doodle-jump/index.html'>Doodle Jump</a>
 		<a href='/play/doge-miner/index.html'>Doge Miner</a>
     <a href="/play/flash/?swf=doom.swf">Doom</a>
     <a href="/play/flash/?swf=donkeykong.swf">Donkey Kong</a>
-    <a href="/play/launcher.html#dkkos">Donkey Kong - King Of Swing</a>
-    <a href="/play/launcher.html#dkc">Donkey Kong Country</a>
-    <a href="/play/launcher.html#dkc2">Donkey Kong Country 2</a>
-    <a href="/play/launcher.html#dkc3">Donkey Kong Country 3</a>
-    <a href="/play/launcher.html#dm">Doom</a>   
-    <a href="/play/launcher.html#dm2">Doom 2</a>
+    <a href="/play/emulator/gba/launcher.html#dkkos">Donkey Kong - King Of Swing</a>
+    <a href="/play/emulator/gba/launcher.html#dkc">Donkey Kong Country</a>
+    <a href="/play/emulator/gba/launcher.html#dkc2">Donkey Kong Country 2</a>
+    <a href="/play/emulator/gba/launcher.html#dkc3">Donkey Kong Country 3</a>
+    <a href="/play/emulator/gba/launcher.html#dm">Doom</a>   
+    <a href="/play/emulator/gba/launcher.html#dm2">Doom 2</a>
     <a href="/play/flash/?swf=dontshootthepuppy.swf">Dont Shoot The Puppy</a>
     <a href="/play/flash/?swf=dragracing.swf">Drag Racing</a>
-    <a href="/play/launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a>
-    <a href="/play/launcher.html#dmpl">Dr. Mario+Puzzle League</a>
+    <a href="/play/emulator/gba/launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a>
+    <a href="/play/emulator/gba/launcher.html#dmpl">Dr. Mario+Puzzle League</a>
     <a href='/play/driftboss/driftboss.html'>Driftboss</a>
-<a href="/play/launcher.html#drilldozer">Drill Dozer</a>
+<a href="/play/emulator/gba/launcher.html#drilldozer">Drill Dozer</a>
 		<a href='/play/ducklife/index.html'>Duck Life 1</a>
     <a href="/play/flash/?swf=ducklife.swf">Duck Life 1 (Flash)</a>
     <a href='/play/ducklife2/index.html'>Duck Life 2</a>
@@ -214,8 +216,8 @@ nav a {
 <a href="/play/flash/?swf=ducklife3.swf">Duck Life 3 (Flash)</a>
 <a href='/play/ducklife4/index.html'>Duck Life 4</a>
 <a href="/play/flash/?swf=ducklife4.swf">Duck Life 4 (Flash)</a>
-<a href="/play/launcher.html#dna">Duke Nukem Advance</a>
-<a href="/play/launcher.html#dnd">Dungeons And Dragons - Eye Of The Beholder</a>
+<a href="/play/emulator/gba/launcher.html#dna">Duke Nukem Advance</a>
+<a href="/play/emulator/gba/launcher.html#dnd">Dungeons And Dragons - Eye Of The Beholder</a>
     
 
 
@@ -224,8 +226,8 @@ nav a {
 <a href="/play/flash/?swf=earntodie.swf">Earn To Die</a>
 <a href="/play/flash/?swf=earntodie2.swf">Earn To Die 2</a>
 <a href="/play/flash/?swf=earntodiesuperwheel.swf">Earn To Die Superwheel</a>
-<a href="/play/launcher.html#earthwormjim">Earthworm Jim</a>
-<a href="/play/launcher.html#earthwormjim2">Earthworm Jim 2</a>
+<a href="/play/emulator/gba/launcher.html#earthwormjim">Earthworm Jim</a>
+<a href="/play/emulator/gba/launcher.html#earthwormjim2">Earthworm Jim 2</a>
 <a href="/play/flash/?swf=electricman2.swf">Electricman 2</a>
 <a href="/play/flash/?swf=elephantquest.swf">Elephant Quest</a>
 <a href="/play/flash/?swf=epicbattlefantasy3.swf">Epic Battle Fantasy 3</a>
@@ -234,19 +236,19 @@ nav a {
 
 <h2>F</h2>
 
-<a href="/play/launcher.html#ffeud">Family Feud</a>
-<a href="/play/launcher.html#fan4">Fantastic 4</a>
-<a href="/play/launcher.html#fan4fo">Fantastic 4 - Flame On</a>
-<a href="/play/launcher.html#fifa4">FIFA Football 2004</a>
-<a href="/play/launcher.html#fifa5">FIFA Football 2005</a>
-<a href="/play/launcher.html#fifa6">FIFA 06</a>
-<a href="/play/launcher.html#fifawc6">FIFA World Cup 2006</a>
-<a href="/play/launcher.html#fifa7">FIFA 2007</a>
-<a href="/play/launcher.html#ff1and2">Final Fantasy 1 &amp; 2 Advance</a>
-<a href="/play/launcher.html#ff4S">Final Fantasy IV Advance (Sound Restoration Mod)</a>
-<a href="/play/launcher.html#ff6">Final Fantasy VI Advance</a>
-<a href="/play/launcher.html#final_fantasy_tactics">Final Fantasy Tactics Advance</a>
-<a href="/play/launcher.html#fire_emblem">Fire Emblem</a>
+<a href="/play/emulator/gba/launcher.html#ffeud">Family Feud</a>
+<a href="/play/emulator/gba/launcher.html#fan4">Fantastic 4</a>
+<a href="/play/emulator/gba/launcher.html#fan4fo">Fantastic 4 - Flame On</a>
+<a href="/play/emulator/gba/launcher.html#fifa4">FIFA Football 2004</a>
+<a href="/play/emulator/gba/launcher.html#fifa5">FIFA Football 2005</a>
+<a href="/play/emulator/gba/launcher.html#fifa6">FIFA 06</a>
+<a href="/play/emulator/gba/launcher.html#fifawc6">FIFA World Cup 2006</a>
+<a href="/play/emulator/gba/launcher.html#fifa7">FIFA 2007</a>
+<a href="/play/emulator/gba/launcher.html#ff1and2">Final Fantasy 1 &amp; 2 Advance</a>
+<a href="/play/emulator/gba/launcher.html#ff4S">Final Fantasy IV Advance (Sound Restoration Mod)</a>
+<a href="/play/emulator/gba/launcher.html#ff6">Final Fantasy VI Advance</a>
+<a href="/play/emulator/gba/launcher.html#final_fantasy_tactics">Final Fantasy Tactics Advance</a>
+<a href="/play/emulator/gba/launcher.html#fire_emblem">Fire Emblem</a>
 		<a href='/play/fireboy-and-watergirl-forest-temple/index.html'>Fireboy & Watergirl: Forest Temple</a>
 		<a href='/play/flappy-2048/index.html'>Flappy 2048</a>
 		<a href='/play/flappybird/index.html'>Flappy Bird</a>
@@ -260,40 +262,40 @@ nav a {
     <a href="/play/flash/?swf=fancypantsadventure3.swf">Fancy Pants Adventure 3</a>
     <a href="/play/flash/?swf=flashflightsimulator.swf">Flash Flight Simulator</a>
     <a href='/play/flappybird/index.html'>Flappy Bird</a>
-    <a href="/play/launcher.html#fr3">Ford Racing 3</a>
+    <a href="/play/emulator/gba/launcher.html#fr3">Ford Racing 3</a>
     <a href="/play/flash/?swf=fracuum.swf">Fracuum</a>
     <a href="/play/flash/?swf=freerider2.swf">Free Rider 2</a>
-    <a href="/play/launcher.html#frogger1">Frogger Advance - The Great Quest</a>
-<a href="/play/launcher.html#frogger2">Frogger's Adventures - Temple of the Frog</a>
-<a href="/play/launcher.html#frogger3">Frogger's Adventures 2 - The Lost Wand</a>
-<a href="/play/launcher.html#fzero_gp">F-Zero - GP Legend</a>
-<a href="/play/launcher.html#fzero_max">F-Zero - Maximum Velocity</a>
+    <a href="/play/emulator/gba/launcher.html#frogger1">Frogger Advance - The Great Quest</a>
+<a href="/play/emulator/gba/launcher.html#frogger2">Frogger's Adventures - Temple of the Frog</a>
+<a href="/play/emulator/gba/launcher.html#frogger3">Frogger's Adventures 2 - The Lost Wand</a>
+<a href="/play/emulator/gba/launcher.html#fzero_gp">F-Zero - GP Legend</a>
+<a href="/play/emulator/gba/launcher.html#fzero_max">F-Zero - Maximum Velocity</a>
 
    
 
 
         <h2>G</h2>
 
-        <a href="/play/launcher.html#gamewatch4">Game &amp; Watch Gallery 4</a>
+        <a href="/play/emulator/gba/launcher.html#gamewatch4">Game &amp; Watch Gallery 4</a>
 		<a href='/play/playeometry/index.html'>Geometery Dash</a>
     <a href="/play/flash/?swf=getontop.swf">Get On Top</a>
 <a href="/play/flash/?swf=giveuprobot.swf">Give Up Robot</a>
 <a href="/play/flash/?swf=giveuprobot2.swf">Give Up Robot 2</a>
-<a href="/play/launcher.html#goldensun">Golden Sun</a>
+<a href="/play/emulator/gba/launcher.html#goldensun">Golden Sun</a>
 		<a href='/play/playopher-kart/index.html'>Gopher Kart</a>
-    <a href="/play/launcher.html#gta">Grand Theft Auto Advance</a>
-    <a href="/play/launcher.html#gunstar_super_heroes">Gunstar Super Heroes</a>
+    <a href="/play/emulator/gba/launcher.html#gta">Grand Theft Auto Advance</a>
+    <a href="/play/emulator/gba/launcher.html#gunstar_super_heroes">Gunstar Super Heroes</a>
   
            
 
         <h2>H</h2>
 
-        <a href="/play/launcher.html#hamtaro_heartbreak">Hamtaro - Ham-Ham Heartbreak</a>
+        <a href="/play/emulator/gba/launcher.html#hamtaro_heartbreak">Hamtaro - Ham-Ham Heartbreak</a>
         <a href="/play/flash/?swf=hanger.swf">Hanger</a>
         <a href="/play/flash/?swf=hanger2.swf">Hanger 2</a>
         <a href="/play/flash/?swf=happywheels.swf">Happy Wheels</a>
-        <a href="/play/launcher.html#hmfmt">Harvest Moon - Friends Of Mineral Town</a>
-        <a href="/play/launcher.html#hmmfmt">Harvest Moon - More Friends Of Mineral Town</a>
+        <a href="/play/emulator/gba/launcher.html#hmfmt">Harvest Moon - Friends Of Mineral Town</a>
+        <a href="/play/emulator/gba/launcher.html#hmmfmt">Harvest Moon - More Friends Of Mineral Town</a>
         <a href='/play/headless-gg/headless.html'>Headless.gg</a>
 		<a href='/play/hex-gl/index.html'>HexGL</a>
 		<a href='/play/hextris/index.html'>Hextris</a>
@@ -313,68 +315,74 @@ nav a {
         <h2>I</h2>
 
 		<a href='/play/idle-breakout/index.html'>Idle Breakout</a>
-    <a href="/play/launcher.html#iridion">Iridion 3D</a>
+    <a href="/play/flash/?swf=interactivebuddy.swf">Interactive Buddy</a>
+    <a href="/play/emulator/gba/launcher.html#iridion">Iridion 3D</a>
 
 
         <h2>J</h2>
-
-        <a href="/play/launcher.html#jca">Jackie Chan Adventures - Legend Of The Dark Hand</a>
-        <a href="/play/launcher.html#jbn">James Bond 007 - Nightfire</a>
-        <a href="/play/launcher.html#jp3dna">Jurassic Park III - DNA Factor</a>
-      <a href="/play/launcher.html#jp3ia">Jurassic Park III - Island Attack</a>
-        <a href="/play/launcher.html#jp3pb">Jurassic Park III - Park Builder</a>
-        <a href="/play/launcher.html#jlifa">Justice League - Injustice For All</a>
-        <a href="/play/launcher.html#jlc">Justice League Chronicles</a>
-        <a href="/play/launcher.html#jlhth">Justice League Heros - The Flash</a>
+        <a href="/play/emulator/gba/launcher.html#jca">Jackie Chan Adventures - Legend Of The Dark Hand</a>
+        <a href="/play/flash/?swf=jacksmith.swf">Jacksmith</a>
+        <a href="/play/emulator/gba/launcher.html#jbn">James Bond 007 - Nightfire</a>
+        <a href="/play/flash/?swf=jellytruck.swf">Jelly Truck</a>
+        <a href="/play/flash/?swf=johnnyupgrade.swf">Johnny Upgrade</a>
+        <a href="/play/flash/?swf=jumpix2.swf">Jumpix 2</a>
+        <a href="/play/emulator/gba/launcher.html#jp3dna">Jurassic Park III - DNA Factor</a>
+      <a href="/play/emulator/gba/launcher.html#jp3ia">Jurassic Park III - Island Attack</a>
+        <a href="/play/emulator/gba/launcher.html#jp3pb">Jurassic Park III - Park Builder</a>
+        <a href="/play/emulator/gba/launcher.html#jlifa">Justice League - Injustice For All</a>
+        <a href="/play/emulator/gba/launcher.html#jlc">Justice League Chronicles</a>
+        <a href="/play/emulator/gba/launcher.html#jlhth">Justice League Heros - The Flash</a>
 
         <h2>K</h2>
+        
 
-        <a href="/play/launcher.html#khcom">Kingdom Hearts - Chain Of Memories</a>
-        <a href="/play/launcher.html#kirbymirror">Kirby &amp; The Amazing Mirror</a>
-        <a href="/play/launcher.html#kirbynightmare">Kirby: Nightmare in Dreamland</a>
+        <a href="/play/emulator/gba/launcher.html#khcom">Kingdom Hearts - Chain Of Memories</a>
+        <a href="/play/emulator/gba/launcher.html#kirbymirror">Kirby & The Amazing Mirror</a>
+        <a href="/play/emulator/gba/launcher.html#kirbynightmare">Kirby: Nightmare in Dreamland</a>
+        <a href="/play/flash/?swf=knightmaretower.swf">Knightmare Tower</a>
                  
                    
 
         <h2>L</h2>
 
-        <a href="/play/launcher.html#lb">Lego Bionicle</a>
-        <a href="/play/launcher.html#li2">Lego Island 2</a>
-        <a href="/play/launcher.html#lr2">Lego Racers 2</a>
-        <a href="/play/launcher.html#lsw">Lego Star Wars</a>
-        <a href="/play/launcher.html#lotrtta">Lord Of The Rings: The Third Age</a>
-        <a href="/play/launcher.html#lotr2">Lord Of The Rings: The Two Towers</a>
-        <a href="/play/launcher.html#lotr3">Lord Of The Rings: The Return Of The King</a>
+        <a href="/play/emulator/gba/launcher.html#lb">Lego Bionicle</a>
+        <a href="/play/emulator/gba/launcher.html#li2">Lego Island 2</a>
+        <a href="/play/emulator/gba/launcher.html#lr2">Lego Racers 2</a>
+        <a href="/play/emulator/gba/launcher.html#lsw">Lego Star Wars</a>
+        <a href="/play/emulator/gba/launcher.html#lotrtta">Lord Of The Rings: The Third Age</a>
+        <a href="/play/emulator/gba/launcher.html#lotr2">Lord Of The Rings: The Two Towers</a>
+        <a href="/play/emulator/gba/launcher.html#lotr3">Lord Of The Rings: The Return Of The King</a>
 
         
         <h2>M</h2>
 
-        <a href="/play/launcher.html#superstar">Mario &amp; Luigi: Superstar Saga</a>
-        <a href="/play/launcher.html#mariokart">Mario Kart: Super Circuit</a>
-        <a href="/play/launcher.html#marioparty">Mario Party Advance</a>
-        <a href="/play/launcher.html#mariopinball">Mario Pinball Land</a>  
-                    <a href="/play/launcher.html#mvsdk">Mario V.S. Donkey Kong</a>
-        <a href="/play/launcher.html#megamanbass">Megaman &amp; Bass</a>
-        <a href="/play/launcher.html#megaman_battle1">Megaman Battle Network 1</a>
-        <a href="/play/launcher.html#megaman_battle2">Megaman Battle Network 2</a>
-        <a href="/play/launcher.html#megaman_battle3_blue">Megaman Battle Network 3 Blue</a>
-        <a href="/play/launcher.html#megaman_battle4_blue">Megaman Battle Network 4 Blue Moon</a>
-        <a href="/play/launcher.html#megaman_battle4_red">Megaman Battle Network 4 Red Sun</a>
-        <a href="/play/launcher.html#megaman_battle5">Megaman Battle Network 5 Team Protoman</a>
-        <a href="/play/launcher.html#megaman_battle6">Megaman Battle Network 6 Cybeast Falzar</a>
-        <a href="/play/launcher.html#megaman_zero1">Megaman Zero</a>
-        <a href="/play/launcher.html#megaman_zero2">Megaman Zero 2</a>
-        <a href="/play/launcher.html#megaman_zero3">Megaman Zero 3</a>
-        <a href="/play/launcher.html#megaman_zero4">Megaman Zero 4</a>
-        <a href="/play/launcher.html#metalslug">Metal Slug Advance</a>
-        <a href="/play/launcher.html#metroid_fusion">Metroid Fusion</a>
-                    <a href="/play/launcher.html#mzm">Metroid Zero Mission</a>
+        <a href="/play/emulator/gba/launcher.html#superstar">Mario &amp; Luigi: Superstar Saga</a>
+        <a href="/play/emulator/gba/launcher.html#mariokart">Mario Kart: Super Circuit</a>
+        <a href="/play/emulator/gba/launcher.html#marioparty">Mario Party Advance</a>
+        <a href="/play/emulator/gba/launcher.html#mariopinball">Mario Pinball Land</a>  
+                    <a href="/play/emulator/gba/launcher.html#mvsdk">Mario V.S. Donkey Kong</a>
+        <a href="/play/emulator/gba/launcher.html#megamanbass">Megaman &amp; Bass</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle1">Megaman Battle Network 1</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle2">Megaman Battle Network 2</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle3_blue">Megaman Battle Network 3 Blue</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle4_blue">Megaman Battle Network 4 Blue Moon</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle4_red">Megaman Battle Network 4 Red Sun</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle5">Megaman Battle Network 5 Team Protoman</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_battle6">Megaman Battle Network 6 Cybeast Falzar</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_zero1">Megaman Zero</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_zero2">Megaman Zero 2</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_zero3">Megaman Zero 3</a>
+        <a href="/play/emulator/gba/launcher.html#megaman_zero4">Megaman Zero 4</a>
+        <a href="/play/emulator/gba/launcher.html#metalslug">Metal Slug Advance</a>
+        <a href="/play/emulator/gba/launcher.html#metroid_fusion">Metroid Fusion</a>
+                    <a href="/play/emulator/gba/launcher.html#mzm">Metroid Zero Mission</a>
                     <a href='/play/mc-classic/index.html'>Minecraft Classic</a>
                     <a href='/play/moo-moo/moomoo.html'>MooMoo.io</a>
-        <a href="/play/launcher.html#momotarou_dentetsu">Momotarou Dentetsu G Gold Deck wo Tsukure!</a>
-        <a href="/play/launcher.html#monopoly">Monopoly</a>
-        <a href="/play/launcher.html#monster_force">Monster Force</a>
-        <a href="/play/launcher.html#mortal_kombat">Mortal Kombat Advance</a>
-                    <a href="/play/launcher.html#m3">Mother 3</a>
+        <a href="/play/emulator/gba/launcher.html#momotarou_dentetsu">Momotarou Dentetsu G Gold Deck wo Tsukure!</a>
+        <a href="/play/emulator/gba/launcher.html#monopoly">Monopoly</a>
+        <a href="/play/emulator/gba/launcher.html#monster_force">Monster Force</a>
+        <a href="/play/emulator/gba/launcher.html#mortal_kombat">Mortal Kombat Advance</a>
+                    <a href="/play/emulator/gba/launcher.html#m3">Mother 3</a>
                     <a href='/play/motox3m/index.html'>Moto X3M</a>
                     <a href='/play/motox3m-pool/index.html'>Moto X3M: Pool Party</a>
 		<a href='/play/motox3m-spooky/index.html'>Moto X3M: Spooky Land</a>
@@ -428,6 +436,11 @@ nav a {
 <a href="/play/emulator/gba/launcher.html#ppf">Puyo Pop Fever</a>
 
     <h2>Q</h2>
+
+    <a href="/play/flash/?swf=quadrobarreldefence.swf">Quadro Barrel Defence</a>
+<a href="/play/flash/?swf=qubeythecube.swf">Qubey The Cube</a>
+<a href="/play/flash/?swf=qwop.swf">Qwop</a>
+    
 
     <h2>R</h2>
 <a href='/play/radius-raid/index.html'>Radius Raid</a>
@@ -546,18 +559,27 @@ nav a {
 
 
     <h2>V</h2>
-
+    <a href="/play/flash/?swf=vex.swf">Vex (Flash)</a>
+    <a href="/play/flash/?swf=vex2.swf">Vex 2 (Flash)</a>
+    <a href="/play/flash/?swf=vex3.swf">Vex 3 (Flash)</a>
 <a href='/play/vex-3/index.html'>Vex 3</a>
 <a href='/play/vex-4/index.html'>Vex 4</a>
 <a href='/play/vex-5/index.html'>Vex 5</a>
 <a href='/play/vex6/index.html'>Vex 6</a>
 
     <h2>W</h2>
-
+    <a href="/play/flash/?swf=warfare1917.swf">Warfare 1917</a>
+    <a href="/play/flash/?swf=warfare1944.swf">Warfare 1944</a>
     <a href="/play/emulator/gba/launcher.html#warioland4">Wario Land 4</a>
     <a href="/play/emulator/gba/launcher.html#wario_ware">Wario Ware Inc</a>
+    <a href="/play/flash/?swf=warp.swf">Warp</a>
+
+    
 
     <h2>X</h2>
+
+    <a href="/play/flash/?swf=xenos.swf">Xenos</a>
+<a href="/play/flash/?swf=xtremecliffdiving.swf">Xtreme Cliff Diving</a>
 
     <h2>Y</h2>
 
@@ -565,6 +587,8 @@ nav a {
 <a href='/play/yohoho-io/servers/server-one.html'>Yohoho.io</a>
     
     <h2>Z</h2>
+
+    <a href="/play/flash/?swf=zombiealienparasites.swf">Zombie Alien Parasites</a>
 
    </div>
         </div>

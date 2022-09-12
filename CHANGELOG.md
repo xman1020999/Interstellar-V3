@@ -1,5 +1,16 @@
-## Changelog
+/## Changelog
 </div>
+
+v.0.1.1
+- Added Discord Servers
+- Added More Games
+- Removed request.html
+- Added Google Servers
+
+v.0.1.0
+
+
+v.0.0.9
 
 ### Summer '22 
 
