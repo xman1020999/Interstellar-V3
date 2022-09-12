@@ -285,12 +285,5 @@ function discServer5() {
 
                                     
                                              
-                                           function openInNewTab("https://forms.gle/2UPQRKSdNaz7okaPA") {
-                                            Object.assign(document.createElement('a'), {
-                                              target: '_blank',
-                                              rel: 'noopener noreferrer',
-                                              href: href,
-                                            }).click();
-                                          }
-                                        
+                                       
 
