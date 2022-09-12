@@ -283,7 +283,7 @@ function discServer5() {
                                         win.document.body.appendChild(iframe)
                                         }
 
-                                        function openInNewTab("https://forms.gle/2UPQRKSdNaz7okaPA") {
+                                        function openInNewTab() {
                                             window.open("https://forms.gle/2UPQRKSdNaz7okaPA", '_blank').focus();
                                            }
                                              
