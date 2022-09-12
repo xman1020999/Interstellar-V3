@@ -230,3 +230,56 @@ function discServer5() {
                             iframe.src = url
                             win.document.body.appendChild(iframe)
                             }
+
+                            function browserServer1() {
+                                var win = window.open() 
+                                var url = "https://z.interstellardev.repl.co/apps/browser.html"
+                                var iframe = win.document.createElement('iframe')
+                                iframe.style.width = "100%  ";
+                                iframe.style.height = "100%";
+                                iframe.style.position = "fixed";
+                                iframe.style.top = "0";
+                                iframe.style.bottom = "0";
+                                iframe.style.left = "0";
+                                iframe.style.left = "0";
+                                iframe.style.border = "none";
+                                iframe.style.backgroundcolor = "black"
+                                iframe.src = url
+                                win.document.body.appendChild(iframe)
+                                }
+
+
+                                function browserServer2() {
+                                    var win = window.open() 
+                                    var url = "https://588b8764-d3aa-4884-b491-64309c6828c5.id.repl.co/apps/browser.html"
+                                    var iframe = win.document.createElement('iframe')
+                                    iframe.style.width = "100%  ";
+                                    iframe.style.height = "100%";
+                                    iframe.style.position = "fixed";
+                                    iframe.style.top = "0";
+                                    iframe.style.bottom = "0";
+                                    iframe.style.left = "0";
+                                    iframe.style.left = "0";
+                                    iframe.style.border = "none";
+                                    iframe.style.backgroundcolor = "black"
+                                    iframe.src = url
+                                    win.document.body.appendChild(iframe)
+                                    }
+
+                                    function browserServer3() {
+                                        var win = window.open() 
+                                        var url = "https://y.interstellardev.repl.co/apps/browser.html"
+                                        var iframe = win.document.createElement('iframe')
+                                        iframe.style.width = "100%  ";
+                                        iframe.style.height = "100%";
+                                        iframe.style.position = "fixed";
+                                        iframe.style.top = "0";
+                                        iframe.style.bottom = "0";
+                                        iframe.style.left = "0";
+                                        iframe.style.left = "0";
+                                        iframe.style.border = "none";
+                                        iframe.style.backgroundcolor = "black"
+                                        iframe.src = url
+                                        win.document.body.appendChild(iframe)
+                                        }
+
