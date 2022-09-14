@@ -283,6 +283,73 @@ function discServer5() {
                                         win.document.body.appendChild(iframe)
                                         }
 
+                                        function yohohoServer1() {
+                                            var win = window.open() 
+                                            var url = "https://y.interstellardev.repl.co/apps/browser.html"
+                                            var iframe = win.document.createElement('iframe')
+                                            iframe.style.width = "100%  ";
+                                            iframe.style.height = "100%";
+                                            iframe.style.position = "fixed";
+                                            iframe.style.top = "0";
+                                            iframe.style.bottom = "0";
+                                            iframe.style.left = "0";
+                                            iframe.style.left = "0";
+                                            iframe.style.border = "none";
+                                            iframe.style.backgroundcolor = "black"
+                                            iframe.src = url
+                                            win.document.body.appendChild(iframe)
+                                            }
+
+                                            function yohohoServer2() {
+                                                var win = window.open() 
+                                                var url = "https://yohoho.interstellardev.repl.co/apps/browser.html"
+                                                var iframe = win.document.createElement('iframe')
+                                                iframe.style.width = "100%  ";
+                                                iframe.style.height = "100%";
+                                                iframe.style.position = "fixed";
+                                                iframe.style.top = "0";
+                                                iframe.style.bottom = "0";
+                                                iframe.style.left = "0";
+                                                iframe.style.left = "0";
+                                                iframe.style.border = "none";
+                                                iframe.style.backgroundcolor = "black"
+                                                iframe.src = url
+                                                win.document.body.appendChild(iframe)
+                                                }
+
+                                                function yohohoServer3() {
+                                                    var win = window.open() 
+                                                    var url = "https://06550011-d173-4c6a-8421-f4d9e285f9c5.id.repl.co/play/web/yohoho.html"
+                                                    var iframe = win.document.createElement('iframe')
+                                                    iframe.style.width = "100%  ";
+                                                    iframe.style.height = "100%";
+                                                    iframe.style.position = "fixed";
+                                                    iframe.style.top = "0";
+                                                    iframe.style.bottom = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.border = "none";
+                                                    iframe.style.backgroundcolor = "black"
+                                                    iframe.src = url
+                                                    win.document.body.appendChild(iframe)
+                                                    }
+
+                                                    function widgetBot() {
+                                                        var win = window.open() 
+                                                        var url = "https://e.widgetbot.io/channels/938658733788131399/939603411366731807"
+                                                        var iframe = win.document.createElement('iframe')
+                                                        iframe.style.width = "100%  ";
+                                                        iframe.style.height = "100%";
+                                                        iframe.style.position = "fixed";
+                                                        iframe.style.top = "0";
+                                                        iframe.style.bottom = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.border = "none";
+                                                        iframe.style.backgroundcolor = "black"
+                                                        iframe.src = url
+                                                        win.document.body.appendChild(iframe)
+                                                        }
                                     
                                              
                                        
