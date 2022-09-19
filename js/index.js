@@ -351,7 +351,7 @@ function discServer5() {
                                                         win.document.body.appendChild(iframe)
                                                         }
 
-                                                        function NewTab() {
+                                                        function newTab() {
                                                             window.open(
                                                             "https://forms.gle/2UPQRKSdNaz7okaPA", "_blank");
                                                         }
