@@ -350,6 +350,11 @@ function discServer5() {
                                                         iframe.src = url
                                                         win.document.body.appendChild(iframe)
                                                         }
+
+                                                        function NewTab() {
+                                                            window.open(
+                                                            "https://forms.gle/2UPQRKSdNaz7okaPA", "_blank");
+                                                        }
                                     
                                              
                                        
