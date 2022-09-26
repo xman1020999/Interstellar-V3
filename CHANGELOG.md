@@ -1,20 +1,33 @@
-/## Changelog
+## Changelog
 </div>
 
-v.0.1.1
+v3.1.3
+
+- Removed Subway Surfers (Interstellar can now be deployed to Cloudflare Pages)
+- Added Exploits
+    - Added LTBEEF + Ingot
+v3.1.2
+
+- Added More Cloaked Discord Servers
+    - Removed Old Servers
+- Added 3 Cloaked Google Servers
+
+v3.1.1
 - Added Discord Servers
 - Added More Games
 - Removed request.html
 - Added Google Servers
 
-v.0.1.0
+v3.1.0
+
+- Added About:Blank Cloaking
 
 
-v.0.0.9
+v3.0.9
 
 ### Summer '22 
 
-v.0.0.8
+v3.0.8
 
 ##### Games
 - Added Web Retro
@@ -23,21 +36,21 @@ v.0.0.8
 - Fixed Play.html
     - Fixed the Search Bar
 
-v.0.0.7
+v.3.0.7
 
 ##### Games
 - Fixed Games.html
     - Renamed to play.html
     - Organized Games (A-Z)
 
-v.0.0.6
+v.3.0.6
 
 ##### Apps
 - Fixed Geforce NOW
     - Fixed Servers
 
 
-v0.0.5
+v3.0.5
 
 ##### Apps
 
@@ -67,20 +80,20 @@ v0.0.5
     - Updated Nav Bar
 
 
-v0.0.4
+v3.0.4
 - Added Subway Surfers: San Francisco
 
 
-v0.0.3
+v3.0.3
 - Removed Proxies
 
 
-v0.0.2 
+v3.0.2 
 - Added Tons of Games
 
 - Updated Nav Bar to Black and White
 
-v0.0.1
+v3.0.1
 - Added Proxies
 
 - Initial Release
