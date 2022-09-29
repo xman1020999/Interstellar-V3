@@ -86,8 +86,8 @@
     <div class="center-screen">
       <div class="container">
         <div class="box">
-        <input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search...." />
-        <div id="glist">
+          <input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g,''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search...." />
+          <div id="glist">
           
           <a onclick="newTab()">Any Games Missing? Request Them Here</a>
           

@@ -355,6 +355,60 @@ function discServer5() {
                                                             window.open(
                                                             "https://forms.gle/2UPQRKSdNaz7okaPA", "_blank");
                                                         }
+
+                                                        
+
+                                                        
+                                                    function cheatNetwork1() {
+                                                        var win = window.open() 
+                                                        var url = "https://cheatnetwork.eu/"
+                                                        var iframe = win.document.createElement('iframe')
+                                                        iframe.style.width = "100%  ";
+                                                        iframe.style.height = "100%";
+                                                        iframe.style.position = "fixed";
+                                                        iframe.style.top = "0";
+                                                        iframe.style.bottom = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.border = "none";
+                                                        iframe.style.backgroundcolor = "black"
+                                                        iframe.src = url
+                                                        win.document.body.appendChild(iframe)
+                                                        }
+
+                                                        function cheatNetwork2() {
+                                                            var win = window.open() 
+                                                            var url = "https://cn.interstellardev.repl.co/exploits/cn.html"
+                                                            var iframe = win.document.createElement('iframe')
+                                                            iframe.style.width = "100%  ";
+                                                            iframe.style.height = "100%";
+                                                            iframe.style.position = "fixed";
+                                                            iframe.style.top = "0";
+                                                            iframe.style.bottom = "0";
+                                                            iframe.style.left = "0";
+                                                            iframe.style.left = "0";
+                                                            iframe.style.border = "none";
+                                                            iframe.style.backgroundcolor = "black"
+                                                            iframe.src = url
+                                                            win.document.body.appendChild(iframe)
+                                                            }
+
+                                                            function cheatNetwork3() {
+                                                                var win = window.open() 
+                                                                var url = "https://mathplayground.cf/exploits/cn2.html"
+                                                                var iframe = win.document.createElement('iframe')
+                                                                iframe.style.width = "100%  ";
+                                                                iframe.style.height = "100%";
+                                                                iframe.style.position = "fixed";
+                                                                iframe.style.top = "0";
+                                                                iframe.style.bottom = "0";
+                                                                iframe.style.left = "0";
+                                                                iframe.style.left = "0";
+                                                                iframe.style.border = "none";
+                                                                iframe.style.backgroundcolor = "black"
+                                                                iframe.src = url
+                                                                win.document.body.appendChild(iframe)
+                                                                }
                                     
                                              
                                        
