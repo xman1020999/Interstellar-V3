@@ -1,6 +1,16 @@
 ## Changelog
 </div>
 
+v3.1.5
+
+- Updated Exploits
++ Added Cheat Network Links
+
+v3.1.4
+
+- Added Arc.io
+- Updated Nav Bar
+
 v3.1.3
 
 - Removed Subway Surfers (Interstellar can now be deployed to Cloudflare Pages)
