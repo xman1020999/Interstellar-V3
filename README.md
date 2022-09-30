@@ -26,7 +26,7 @@ Bubbo#3099
 Bigfoot#9033
 
 ### Email
- **<a href="mailto:Bigfoot@bigfoot9999.tk">Bigfoot</a>**
+ **<a href="mailto:bigfoot.gaming9999@gmail.com">Bigfoot</a>**
  
  **<a href="mailto:dev@stars.gq">Bubbo</a>**
 
