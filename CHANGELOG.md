@@ -1,11 +1,17 @@
 ## Changelog
 </div>
+v3.1.6
++ Fixed NG Space Company Favicon
+- Updated play.html
++ Added Lost Flash Games.
 
 v3.1.5
 
 - Updated Exploits
 + Added Cheat Network Links
 - Fixed NG Space Company
++ Fixed Gopher Kart 
++ Fixed Geometry Dash
 
 v3.1.4
 
