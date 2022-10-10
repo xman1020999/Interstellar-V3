@@ -443,7 +443,182 @@ function discServer5() {
                                                                         iframe.src = url
                                                                         win.document.body.appendChild(iframe)
                                                                         }
+
+
                                     
+
+                                    function Shockers1() {
+                                        var win = window.open() 
+                                        var url = "https://algebra.best/"
+                                        var iframe = win.document.createElement('iframe')
+                                        iframe.style.width = "100%  ";
+                                        iframe.style.height = "100%";
+                                        iframe.style.position = "fixed";
+                                        iframe.style.top = "0";
+                                        iframe.style.bottom = "0";
+                                        iframe.style.left = "0";
+                                        iframe.style.left = "0";
+                                        iframe.style.border = "none";
+                                        iframe.style.backgroundcolor = "black"
+                                        iframe.src = url
+                                        win.document.body.appendChild(iframe)
+                                        }
+
+                                        function Shockers2() {
+                                            var win = window.open() 
+                                            var url = "https://algebra.vip/"
+                                            var iframe = win.document.createElement('iframe')
+                                            iframe.style.width = "100%  ";
+                                            iframe.style.height = "100%";
+                                            iframe.style.position = "fixed";
+                                            iframe.style.top = "0";
+                                            iframe.style.bottom = "0";
+                                            iframe.style.left = "0";
+                                            iframe.style.left = "0";
+                                            iframe.style.border = "none";
+                                            iframe.style.backgroundcolor = "black"
+                                            iframe.src = url
+                                            win.document.body.appendChild(iframe)
+                                            }
+
+                                            function Shockers3() {
+                                                var win = window.open() 
+                                                var url = "https://biologyclass.club/"
+                                                var iframe = win.document.createElement('iframe')
+                                                iframe.style.width = "100%  ";
+                                                iframe.style.height = "100%";
+                                                iframe.style.position = "fixed";
+                                                iframe.style.top = "0";
+                                                iframe.style.bottom = "0";
+                                                iframe.style.left = "0";
+                                                iframe.style.left = "0";
+                                                iframe.style.border = "none";
+                                                iframe.style.backgroundcolor = "black"
+                                                iframe.src = url
+                                                win.document.body.appendChild(iframe)
+                                                }
+
+                                                function Shockers4() {
+                                                    var win = window.open() 
+                                                    var url = "https://deadlyegg.com"
+                                                    var iframe = win.document.createElement('iframe')
+                                                    iframe.style.width = "100%  ";
+                                                    iframe.style.height = "100%";
+                                                    iframe.style.position = "fixed";
+                                                    iframe.style.top = "0";
+                                                    iframe.style.bottom = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.border = "none";
+                                                    iframe.style.backgroundcolor = "black"
+                                                    iframe.src = url
+                                                    win.document.body.appendChild(iframe)
+                                                    }
+    
+
+                                                        function Shockers5() {
+                                                    var win = window.open() 
+                                                    var url = "https://deathegg.world"
+                                                    var iframe = win.document.createElement('iframe')
+                                                    iframe.style.width = "100%  ";
+                                                    iframe.style.height = "100%";
+                                                    iframe.style.position = "fixed";
+                                                    iframe.style.top = "0";
+                                                    iframe.style.bottom = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.left = "0";
+                                                    iframe.style.border = "none";
+                                                    iframe.style.backgroundcolor = "black"
+                                                    iframe.src = url
+                                                    win.document.body.appendChild(iframe)
+                                                    }
+
+                                                    function Shockers6() {
+                                                        var win = window.open() 
+                                                        var url = "https://egg.dance"
+                                                        var iframe = win.document.createElement('iframe')
+                                                        iframe.style.width = "100%  ";
+                                                        iframe.style.height = "100%";
+                                                        iframe.style.position = "fixed";
+                                                        iframe.style.top = "0";
+                                                        iframe.style.bottom = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.left = "0";
+                                                        iframe.style.border = "none";
+                                                        iframe.style.backgroundcolor = "black"
+                                                        iframe.src = url
+                                                        win.document.body.appendChild(iframe)
+                                                        }
+
+                                                        function Shockers7() {
+                                                            var win = window.open() 
+                                                            var url = "https://eggcombat.com"
+                                                            var iframe = win.document.createElement('iframe')
+                                                            iframe.style.width = "100%  ";
+                                                            iframe.style.height = "100%";
+                                                            iframe.style.position = "fixed";
+                                                            iframe.style.top = "0";
+                                                            iframe.style.bottom = "0";
+                                                            iframe.style.left = "0";
+                                                            iframe.style.left = "0";
+                                                            iframe.style.border = "none";
+                                                            iframe.style.backgroundcolor = "black"
+                                                            iframe.src = url
+                                                            win.document.body.appendChild(iframe)
+                                                            }
+
+                                                            function Shockers8() {
+                                                                var win = window.open() 
+                                                                var url = "https://eggfacts.fun"
+                                                                var iframe = win.document.createElement('iframe')
+                                                                iframe.style.width = "100%  ";
+                                                                iframe.style.height = "100%";
+                                                                iframe.style.position = "fixed";
+                                                                iframe.style.top = "0";
+                                                                iframe.style.bottom = "0";
+                                                                iframe.style.left = "0";
+                                                                iframe.style.left = "0";
+                                                                iframe.style.border = "none";
+                                                                iframe.style.backgroundcolor = "black"
+                                                                iframe.src = url
+                                                                win.document.body.appendChild(iframe)
+                                                                }
+
+                                                                function Shockers9() {
+                                                                    var win = window.open() 
+                                                                    var url = "https://egghead.institute"
+                                                                    var iframe = win.document.createElement('iframe')
+                                                                    iframe.style.width = "100%  ";
+                                                                    iframe.style.height = "100%";
+                                                                    iframe.style.position = "fixed";
+                                                                    iframe.style.top = "0";
+                                                                    iframe.style.bottom = "0";
+                                                                    iframe.style.left = "0";
+                                                                    iframe.style.left = "0";
+                                                                    iframe.style.border = "none";
+                                                                    iframe.style.backgroundcolor = "black"
+                                                                    iframe.src = url
+                                                                    win.document.body.appendChild(iframe)
+                                                                    }
+
+                                                                    function Shockers10() {
+                                                                        var win = window.open() 
+                                                                        var url = "https://eggisthenewblack.com"
+                                                                        var iframe = win.document.createElement('iframe')
+                                                                        iframe.style.width = "100%  ";
+                                                                        iframe.style.height = "100%";
+                                                                        iframe.style.position = "fixed";
+                                                                        iframe.style.top = "0";
+                                                                        iframe.style.bottom = "0";
+                                                                        iframe.style.left = "0";
+                                                                        iframe.style.left = "0";
+                                                                        iframe.style.border = "none";
+                                                                        iframe.style.backgroundcolor = "black"
+                                                                        iframe.src = url
+                                                                        win.document.body.appendChild(iframe)
+                                                                        }
+
+
                                              
                                        
 
