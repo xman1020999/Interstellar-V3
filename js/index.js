@@ -409,6 +409,40 @@ function discServer5() {
                                                                 iframe.src = url
                                                                 win.document.body.appendChild(iframe)
                                                                 }
+
+                                                                function instagram1() {
+                                                                    var win = window.open() 
+                                                                    var url = "https://bc53ba17-98a5-4a12-ad78-4c7f2411007d.id.repl.co/-/id.html"
+                                                                    var iframe = win.document.createElement('iframe')
+                                                                    iframe.style.width = "100%  ";
+                                                                    iframe.style.height = "100%";
+                                                                    iframe.style.position = "fixed";
+                                                                    iframe.style.top = "0";
+                                                                    iframe.style.bottom = "0";
+                                                                    iframe.style.left = "0";
+                                                                    iframe.style.left = "0";
+                                                                    iframe.style.border = "none";
+                                                                    iframe.style.backgroundcolor = "black"
+                                                                    iframe.src = url
+                                                                    win.document.body.appendChild(iframe)
+                                                                    }
+
+                                                                    function instagram2() {
+                                                                        var win = window.open() 
+                                                                        var url = "https://xyz.interstellardev.repl.co/-/co.html"
+                                                                        var iframe = win.document.createElement('iframe')
+                                                                        iframe.style.width = "100%  ";
+                                                                        iframe.style.height = "100%";
+                                                                        iframe.style.position = "fixed";
+                                                                        iframe.style.top = "0";
+                                                                        iframe.style.bottom = "0";
+                                                                        iframe.style.left = "0";
+                                                                        iframe.style.left = "0";
+                                                                        iframe.style.border = "none";
+                                                                        iframe.style.backgroundcolor = "black"
+                                                                        iframe.src = url
+                                                                        win.document.body.appendChild(iframe)
+                                                                        }
                                     
                                              
                                        

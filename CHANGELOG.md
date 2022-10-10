@@ -2,6 +2,7 @@
 </div>
 v3.1.7
 + Fixed Instagram
++ Added Cloaked Servers
 
 v3.1.6
 + Fixed NG Space Company Favicon
