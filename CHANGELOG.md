@@ -4,6 +4,7 @@ v3.1.7
 + Fixed Instagram
 + Added Cloaked Servers
 + Added 10 Cloaked Shell Shockers Servers
++ Added Blooket Cheats
 
 v3.1.6
 + Fixed NG Space Company Favicon
