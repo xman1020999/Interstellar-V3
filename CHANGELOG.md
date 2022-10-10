@@ -1,5 +1,8 @@
 ## Changelog
 </div>
+v3.1.7
++ Fixed Instagram
+
 v3.1.6
 + Fixed NG Space Company Favicon
 - Updated play.html
