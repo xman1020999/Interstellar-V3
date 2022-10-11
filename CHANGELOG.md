@@ -1,5 +1,9 @@
 ## Changelog
 </div>
+v3.1.8
++ Removed Instagram
++ Added 2 Cloaked Geforce Servers
+
 v3.1.7
 + Fixed Instagram
 + Added Cloaked Servers

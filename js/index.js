@@ -580,8 +580,40 @@ function discServer5() {
                                                                         iframe.src = url
                                                                         win.document.body.appendChild(iframe)
                                                                         }
+                                                                        function gfn1() {
+                                                                            var win = window.open() 
+                                                                            var url = "https://de4b1d12-8131-4647-a7ee-f2178ba46623.id.repl.co/-/id.html"
+                                                                            var iframe = win.document.createElement('iframe')
+                                                                            iframe.style.width = "100%  ";
+                                                                            iframe.style.height = "100%";
+                                                                            iframe.style.position = "fixed";
+                                                                            iframe.style.top = "0";
+                                                                            iframe.style.bottom = "0";
+                                                                            iframe.style.left = "0";
+                                                                            iframe.style.left = "0";
+                                                                            iframe.style.border = "none";
+                                                                            iframe.style.backgroundcolor = "black"
+                                                                            iframe.src = url
+                                                                            win.document.body.appendChild(iframe)
+                                                                            }
 
-
+                                                                            function gfn2() {
+                                                                                var win = window.open() 
+                                                                                var url = "https://gfn.interstellardev.repl.co/-/co.html"
+                                                                                var iframe = win.document.createElement('iframe')
+                                                                                iframe.style.width = "100%  ";
+                                                                                iframe.style.height = "100%";
+                                                                                iframe.style.position = "fixed";
+                                                                                iframe.style.top = "0";
+                                                                                iframe.style.bottom = "0";
+                                                                                iframe.style.left = "0";
+                                                                                iframe.style.left = "0";
+                                                                                iframe.style.border = "none";
+                                                                                iframe.style.backgroundcolor = "black"
+                                                                                iframe.src = url
+                                                                                win.document.body.appendChild(iframe)
+                                                                                }
                                              
                                        
 
+                                                                       
