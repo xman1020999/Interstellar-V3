@@ -1,8 +1,11 @@
 ## Changelog
 </div>
+
 v3.1.8
 + Removed Instagram
 + Added 2 Cloaked Geforce Servers
++ Added N64 Emulator 
++ Added The Legend of Zelda: Majora's Mask
 
 v3.1.7
 + Fixed Instagram
