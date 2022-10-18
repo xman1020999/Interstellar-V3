@@ -6,6 +6,7 @@ v3.1.8
 + Added 2 Cloaked Geforce Servers
 + Added N64 Emulator 
 + Added The Legend of Zelda: Majora's Mask
++ Added Slope Cyber & Zombie Hill Racer
 
 v3.1.7
 + Fixed Instagram
