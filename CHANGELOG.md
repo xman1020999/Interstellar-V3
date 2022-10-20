@@ -7,6 +7,7 @@ v3.1.8
 + Added N64 Emulator 
 + Added The Legend of Zelda: Majora's Mask
 + Added Slope Cyber & Zombie Hill Racer
++ Added Krunker
 
 v3.1.7
 + Fixed Instagram
