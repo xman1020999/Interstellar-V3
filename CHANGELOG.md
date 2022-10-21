@@ -9,6 +9,7 @@ v3.1.8
 + Added Slope Cyber & Zombie Hill Racer
 + Added Krunker
 + Added Eliatopia
++ Added Cluster Truck
 
 v3.1.7
 + Fixed Instagram
