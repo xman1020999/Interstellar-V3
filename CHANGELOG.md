@@ -8,6 +8,7 @@ v3.1.8
 + Added The Legend of Zelda: Majora's Mask
 + Added Slope Cyber & Zombie Hill Racer
 + Added Krunker
++ Added Eliatopia
 
 v3.1.7
 + Fixed Instagram
