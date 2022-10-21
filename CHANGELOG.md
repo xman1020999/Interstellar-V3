@@ -10,6 +10,7 @@ v3.1.8
 + Added Krunker
 + Added Eliatopia
 + Added Cluster Truck
++ Added Stickman Hook
 
 v3.1.7
 + Fixed Instagram
