@@ -1,5 +1,10 @@
 ## Changelog
 </div>
+v3.1.9
++ Added Settings Page
++ Added Getaway Shootout
++ Added Meatboy
++ Added Google Analytics
 
 v3.1.8
 + Removed Instagram
