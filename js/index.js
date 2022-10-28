@@ -714,7 +714,10 @@ function discServer5() {
                                                                                 iframe.src = url
                                                                                 win.document.body.appendChild(iframe)
                                                                                 }
-                                             
-                                       
 
+                                       
+                                                                                const arc = document.createElement("script");
+                                                                                arc.setAttribute("async", "");
+                                                                                arc.setAttribute("src", "https://arc.io/widget.min.js#gcM6sndx");
+                                                                                document.head.append(arc);
                                                                        
