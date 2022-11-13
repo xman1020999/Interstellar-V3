@@ -1,6 +1,15 @@
 ## Changelog
 </div>
 
+v3.2.1
++ Added Online Racing Game
++ Added Subway Surfers World Tour Houston
++ Added Subway Surfers Zurich
+
+v3.2.0 
++ Added 13 Shuttle Proxy Links
++ Added Arc Script
+
 v3.1.9
 + Added Settings Page
 + Added Getaway Shootout
