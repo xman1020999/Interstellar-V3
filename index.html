@@ -37,6 +37,12 @@
         </ul>
     </nav>
     <body>
+        <div id="alertvercel"class="alertvercel">
+            <h1 style="color: white;">Attention!</h1>
+            <p1>Hello gamers! All vercel.app URLs will be going down soon! Join our Discord for more information, and links!</p1><br>
+            <p2><br>- Interstellar Developer Team</p2>
+            <div id="attention"style="position:absolute; top:10px; right:20px;"><a style="cursor: pointer;"onclick="myFunction1()">&#10005;</a></div>
+        </div>
         <img src="Interstelar Network.png" id="logoint" class="logoint"></img>
                 <button class="logobutton2" onclick="window.location.href='https://dsc.gg/interstellarnetwork'">Join Our Discord</button>
         <!--<a href='https://dsc.gg/interstellarnetwork'><button onclick="window.location.href='https://dsc.gg/interstellarnetwork'" class="logobuttn">Join our Discord!</button></a>-->
@@ -96,7 +102,31 @@
             <br>
         </div>
         <!--END FOOTER-->
+        <script>
+          function myFunction1() {
+          var x = document.getElementById("alertvercel");
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+        </script>
         <style>
+            .alertvercel {
+                width: 400px;
+                height: 200px;
+                padding: 20px;
+                position: fixed;
+                transform: translate(-50%, -50%);
+                left: 50%;
+                top: 20%;
+                text-align: center;
+                background-color: rgb(51, 51, 51);
+                z-index: 99999999999999999999;
+                border-radius: 20px;
+                color: white;
+            }
             * {
                 padding: 0;
                 margin: 0;
