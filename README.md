@@ -28,7 +28,7 @@ Bigfoot#9033
 ### Email
  **<a href="mailto:bigfoot.gaming9999@gmail.com">Bigfoot</a>**
  
- **<a href="mailto:dev@stars.gq">Bubbo</a>**
+ **<a href="mailto:bubbo@interstellars.games">Bubbo</a>**
 
 ### Deploying
 Interstellar is completely open-source so you can deploy it by forking or deploying it below.
@@ -51,7 +51,11 @@ Interstellar is completely open-source so you can deploy it by forking or deploy
 
 **<a href="https://github.com/BinBashBanana/webretro">BinBashBanana</a>** 
 
+**<a href="https://github.com/duiker101/Hacker-Typer">Hacker Typer</a>**
+
  **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
+
+
 
 
 
