@@ -5,6 +5,17 @@ v3.2.1
 + Added Online Racing Game
 + Added Subway Surfers World Tour Houston
 + Added Subway Surfers Zurich
++ Added Autocloaker Back
++ Added Arc To More Pages
++ Added Whack Your Boss
++ Added Google Snake
++ Added Grindcraft
++ Added Papa's Pizzeria
++ Added Big Tower Tiny Square
++ Updated Games Page
++ Updated Not Found Image
++ Added Popup on Home Page
+
 
 v3.2.0 
 + Added 13 Shuttle Proxy Links
