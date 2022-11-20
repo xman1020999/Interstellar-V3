@@ -1,7 +1,9 @@
 ## Changelog
 </div>
+v3.2.2
 
 v3.2.1
+
 + Added Online Racing Game
 + Added Subway Surfers World Tour Houston
 + Added Subway Surfers Zurich
