@@ -2,6 +2,8 @@
 </div>
 v3.2.2
 
++ Fixed All Papa's Games
+
 v3.2.1
 
 + Added Online Racing Game
