@@ -42,7 +42,7 @@ Interstellar is completely open-source so you can deploy it by forking or deploy
 
 
 ### Contributors 
-<img src="https://contrib.rocks/image?repo=imbubbo/interstellar"/>
+<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellar"/>
 
 ### Credits
  **<a href="https://github.com/3kh0/3kh0.github.io">3kh0</a>**
