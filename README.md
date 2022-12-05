@@ -1,5 +1,9 @@
 <div align='center'>
 
+### Project Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
+
 
 ### About Us
 
@@ -54,6 +58,8 @@ Interstellar is completely open-source so you can deploy it by forking or deploy
 **<a href="https://github.com/duiker101/Hacker-Typer">Hacker Typer</a>**
 
  **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
+
+
 
 
 
