@@ -2,7 +2,7 @@
 "companyName": "Kiloo Games",
 "productName": "Subway Surfers",
 "productVersion": "1.94.0",
-"dataUrl": "Houston.data.unityweb",
+"dataUrl": "https://cdn2.algebra.ninja/houston/Houston.data.unityweb",
 "wasmCodeUrl": "Houston.wasm.code.unityweb",
 "wasmFrameworkUrl": "Houston.wasm.framework.unityweb",
 "asmCodeUrl": "Houston.asm.code.unityweb",
