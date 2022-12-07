@@ -3,7 +3,7 @@
 "productName": "Subway Surfers",
 "productVersion": "1.94.0",
 "dataUrl": "https://cdn2.algebra.ninja/houston/Houston.data.unityweb",
-"wasmCodeUrl": "Houston.wasm.code.unityweb",
+"wasmCodeUrl": "https://cdn2.algebra.ninja/houston/Houston.wasm.code.unityweb",
 "wasmFrameworkUrl": "Houston.wasm.framework.unityweb",
 "asmCodeUrl": "Houston.asm.code.unityweb",
 "asmMemoryUrl": "Houston.asm.memory.unityweb",
