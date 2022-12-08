@@ -1,4 +1,3 @@
-<!-- This file, related code, assets, styling and indicia are Copyright (c) Friv.com 2006-2022. Unauthorised reproduction in whole or in part is strictly prohibited. Friv is a registered trademark. All rights reserved. -->
 
 <!DOCTYPE html>
 <html lang=en>
@@ -85,7 +84,7 @@
     <div id=spinner></div>
     <div id="inner"></div>
     
-    <script src="https://cdn2.algebra.ninja/assets/zombotron/zombotron.js"></script>
+    <script src="https://cdn2.algebra.ninja/assets/zombotron/assets/zombotron.js"></script>
 
     <script>
         var intervalID = setInterval(function() {
@@ -97,10 +96,6 @@
                 clearInterval(intervalID);
             }
         }, 500);
-
-        var gameLocation = "friv.com";
-        var gameAllowed = false;
-        var legalSites = ["friv.com", "friv.co.uk", "friv4school.com", "frivmath.com", "funo.com", "funomath.com", "yurk.com", "femo.com", "fabo.com"];
 
         for (i = 0; i < legalSites.length; i++) {
             if (gameLocation.indexOf(legalSites[i]) > -1) {
