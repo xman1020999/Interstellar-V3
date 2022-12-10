@@ -7,7 +7,6 @@
     <title>Home - Interstellar Games</title>
   <link rel="icon" type="image/x-icon" href="/media/favicon/favicon.ico">
     <link rel="shortcut icon" href="/media/favicon/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/css/styles/games.css">
 	<link rel="stylesheet" href="/css/galaxy.css" />
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
     <link rel="stylesheet" href="/css/index.css">
@@ -358,7 +357,25 @@ background-repeat: no-repeat;
     </ul>
 </nav>
 	<body>
-    
+        <div id="cookieNotice" class="light display-right" style="display: block;">
+            <div id="closeIcon" style="display: none;">
+            </div>
+            <div class="title-wrap">
+              <h4>Cookie Consent</h4>
+            </div>
+            <div class="content-wrap">
+              <div class="msg-wrap">
+                <p>We use cookies! This website uses cookies or similar technologies, to enhance your browsing experience and provide personalized recommendations. By continuing to use our website, you agree to our <a style="color: grey;" href="/cookieconsentpolicy.html">Cookie Policy</a></p>
+                <div class="btn-wrap">
+                  <button class="popupbutton"  onclick="acceptCookieConsent();">Accept</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <!-- JavaScript source file -->
+          <script src="/assets/js/cookie_consent.js"></script>
+
     <div class="cursor"><div class="planet"></div></div>
     <canvas id="canvas" height="100%" width="100%"></canvas>
     <script src="/js/galaxy.js"></script>
