@@ -2,7 +2,7 @@
 
 ### About Us
 
-Interstellar Games is one of the best modern unblocked games sites. Check it out <a href="https://interstellars.games">here</a>, if this link is blocked you can get more linksin our <a href="https://dsc.gg/interstellarntwork">Discord Server!</a>
+Interstellar Games is one of the best modern unblocked games sites. Check it out <a href="https://interstellars.games">here</a>, if this link is blocked you can get more links in our <a href="https://dsc.gg/interstellarntwork">Discord Server!</a>
 
 ### Deploying
 Interstellar is completely open-source so you can deploy it by forking or deploying it below.
