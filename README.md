@@ -4,6 +4,10 @@
 
 Interstellar Games is one of the best modern unblocked games sites. Check it out <a href="https://interstellars.games">here</a>, if this link is blocked you can get more links in our <a href="https://dsc.gg/interstellarntwork">Discord Server!</a>
 
+<a href="https://discord.gg/gointerstellar"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://github.com/interstellarnetwork"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
+</p>  
+
 ### Deploying
 Interstellar is completely open-source so you can deploy it by forking or deploying it below.
   
@@ -17,14 +21,6 @@ Interstellar is completely open-source so you can deploy it by forking or deploy
 ### Project Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
-
-
-
-
-### Join our Discord!
-
-[![Join our Discord!](https://raw.githubusercontent.com/imbubbo/buttons/main/discord/button/discord-button1.png)](https://discord.gg/ffcdaaA49g)
-  
  
 ### Contact Us
 
