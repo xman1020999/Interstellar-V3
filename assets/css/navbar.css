@@ -5,6 +5,9 @@
   margin: 0;
 }
 
+html {
+  background-color: black
+}
 
 body {
   font-family: Arial, Tahoma, Serif;
