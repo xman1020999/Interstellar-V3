@@ -37,7 +37,7 @@ Bigfoot#9033
 
 
 ### Contributors 
-<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellar"/>
+<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellar-v3"/>
 
 ### Credits
  **<a href="https://github.com/3kh0/3kh0.github.io">3kh0</a>**
